@@ -11,7 +11,7 @@
 
 ### Certifications:
 
-<img align="left" alt="CCNP" width="26px" src="https://images.youracclaim.com/size/340x340/images/706353b7-3a49-4e7b-80d6-ce80a597f580/cisco_ccnp_R_26S.png" />
+[<img align="left" alt="CCNP" width="80px" src="https://images.youracclaim.com/size/340x340/images/706353b7-3a49-4e7b-80d6-ce80a597f580/cisco_ccnp_R_26S.png" />][CCNP-Badge]
 
 
 <br />
@@ -60,6 +60,7 @@
 [twitter]: https://twitter.com/JustACake_
 [xing]: https://xing.com/profile/Marc_Schmidbauer
 [linkedin]: https://linkedin.com/in/marc-schmidbauer-811094106
+[CCNP-Badge]: https://www.youracclaim.com/badges/04287fc4-ac22-40b4-9129-b2b9f0dfbc38/public_url
 
 <!--
 **JustACake/JustACake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
