@@ -6,7 +6,6 @@
 - 👯 I’m looking to contribute to a project in the future
 - 🥅 2020 Goals: Digging deeper into network automation and learn from others
 - ⚡ Fun fact: I am competetely new to collaborative coding and Github
-
 <br />
 
 ### Certifications:
