@@ -47,7 +47,7 @@
 
 <img align="left" alt="JustACake's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JustACake&show_icons=true&hide_border=true" />
 
-[cisco-website]: https://https://developer.cisco.com/
+[cisco-website]: https://developer.cisco.com/
 [twitter]: https://twitter.com/JustACake_
 [xing]: https://xing.com/profile/Marc_Schmidbauer
 [linkedin]: https://linkedin.com/in/marc-schmidbauer-811094106
