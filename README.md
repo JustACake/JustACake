@@ -10,9 +10,7 @@
 <br />
 
 ### Certifications:
-
 [<img align="left" alt="CCNP" width="80px" src="https://images.youracclaim.com/size/340x340/images/706353b7-3a49-4e7b-80d6-ce80a597f580/cisco_ccnp_R_26S.png" />][CCNP-Badge]
-
 
 <br />
 
