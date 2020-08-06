@@ -7,6 +7,15 @@
 - 🥅 2020 Goals: Digging deeper into network automation and learn from others
 - ⚡ Fun fact: I am competetely new to collaborative coding and Github
 
+<br />
+
+### Certifications:
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="04287fc4-ac22-40b4-9129-b2b9f0dfbc38" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+
+
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="JustACake | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
