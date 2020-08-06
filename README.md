@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I am competetely new to collaborative coding and Github
 
 <br />
+
 ### Certifications:
 [<img align="left" alt="CCNP" width="70px" src="https://images.youracclaim.com/size/340x340/images/706353b7-3a49-4e7b-80d6-ce80a597f580/cisco_ccnp_R_26S.png" />][CCNP-Badge]
 
@@ -21,12 +22,14 @@
 [<img align="left" alt="JustACake | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/xing.svg" />][xing]
 
 <br />
+
 ### Languages:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
 ### Tools:
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
