@@ -59,7 +59,7 @@
 [cisco-website]: https://developer.cisco.com/
 [twitter]: https://twitter.com/JustACake_
 [xing]: https://xing.com/profile/Marc_Schmidbauer
-[linkedin]: https://linkedin.com/in/marc-schmidbauer-811094106
+[linkedin]: https://de.linkedin.com/in/marc-schmidbauer-811094106
 [CCNP-Badge]: https://www.youracclaim.com/badges/04287fc4-ac22-40b4-9129-b2b9f0dfbc38/public_url
 [CCNA-SEC-Badge]: https://www.youracclaim.com/badges/c1616fbb-4ba8-4278-b9f7-6d250d1e6dca/public_url
 [python_website]: https://www.python.org/
